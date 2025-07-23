@@ -68,7 +68,7 @@ const About = () => {
                   <div className="flex items-center space-x-3">
                     <span className="font-semibold">Phone:</span>
                     <a 
-                      href="tel:+91 7011646216, +91 9829471312" 
+                      href="tel:+91 7011646216" 
                       className="hover:text-foreground transition-colors duration-200"
                     >
                       +91 7011646216, +91 9829471312
